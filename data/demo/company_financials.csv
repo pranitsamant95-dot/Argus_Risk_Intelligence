@@ -1,0 +1,10 @@
+# SYNTHETIC DEMONSTRATION DATA - fictional company, not NSE/BSE/RBI/company-sourced. INR crore, quarterly.
+company_id,company_name,sector,reporting_period,period_type,currency,units,revenue,operating_profit,total_assets,cash_and_equivalents,current_assets,current_liabilities,total_debt,short_term_debt,operating_cash_flow,capital_expenditure,interest_expense,receivables,inventory,payables,data_origin
+DEMO01,Synthetic Industries Ltd (FICTIONAL),Industrial manufacturing,FY25-Q1,quarterly,INR,crore,1000,150,5200,420,1500,1100,1800,600,130,80,40,300,420,260,synthetic
+DEMO01,Synthetic Industries Ltd (FICTIONAL),Industrial manufacturing,FY25-Q2,quarterly,INR,crore,1030,152,5300,410,1540,1130,1830,620,125,85,41,315,430,265,synthetic
+DEMO01,Synthetic Industries Ltd (FICTIONAL),Industrial manufacturing,FY25-Q3,quarterly,INR,crore,1060,153,5400,400,1580,1170,1870,650,120,90,42,330,445,268,synthetic
+DEMO01,Synthetic Industries Ltd (FICTIONAL),Industrial manufacturing,FY25-Q4,quarterly,INR,crore,1080,151,5500,380,1640,1230,1920,690,105,95,44,350,465,270,synthetic
+DEMO01,Synthetic Industries Ltd (FICTIONAL),Industrial manufacturing,FY26-Q1,quarterly,INR,crore,1090,147,5600,350,1700,1300,1980,740,95,100,46,375,490,272,synthetic
+DEMO01,Synthetic Industries Ltd (FICTIONAL),Industrial manufacturing,FY26-Q2,quarterly,INR,crore,1110,146,5700,330,1760,1380,2040,790,90,100,48,400,515,274,synthetic
+DEMO01,Synthetic Industries Ltd (FICTIONAL),Industrial manufacturing,FY26-Q3,quarterly,INR,crore,1130,143,5800,300,1820,1450,2100,830,80,105,51,430,540,276,synthetic
+DEMO01,Synthetic Industries Ltd (FICTIONAL),Industrial manufacturing,FY26-Q4,quarterly,INR,crore,1150,140,5900,270,1880,1560,2180,900,70,110,54,460,570,278,synthetic
